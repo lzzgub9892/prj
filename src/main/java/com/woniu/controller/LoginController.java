@@ -10,6 +10,7 @@ public class LoginController {
 	@RequestMapping("save")
 	public String save() {
 		System.out.println("LoginController.save()");
+		System.out.println("LoginController.save()");
 		return null;
 	}
 }
